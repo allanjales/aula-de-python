@@ -1,1 +1,1 @@
-Este aqui é um teste :)
+Aqui estão todos os exercícios a serem entregues :)
